@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d28ae98-6b27-4099-a8c3-957b70367a5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Homework_9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/Add_contact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/Export.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/Import_contacts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/Print_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/menu_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/create_bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home/Key_board.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject10/Homework_9.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
